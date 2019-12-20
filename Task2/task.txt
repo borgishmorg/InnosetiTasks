@@ -1,0 +1,10 @@
+2.**
+Даны URL адреса сайтов:
+https://golang.org/
+https://golang.org/doc/
+https://golang.org/pkg/compress/
+https://golang.org/pkg/compress/gzip/
+https://golang.org/pkg/crypto/md5/
+На каждый URL нужно отправить HTTP-запрос методом GET и посчитать количество
+вхождений строки "Go" в теле ответа. В конце работы приложение выводит на экран 
+общее количество найденных строк "Go". 
